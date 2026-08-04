@@ -5,4 +5,4 @@ Myself Aaliyan Ahmed.
 <br>
 I am a 3rd year Mechatronics Student.
 <br>
-I study in NUST College of Electrical and Mechanical Engineering.
+I study in NUST College of Electrical and Mechanical Engineering,NUST-CEME
